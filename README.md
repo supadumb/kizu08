@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github neko](https://github.githubassets.com/images/mona-loading-dark.gif)
+
 <!--
 **kizu08/kizu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
