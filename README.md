@@ -5,4 +5,4 @@
 
 
 
-<script src="https://www.hackthebox.eu/badge/928801"></script>
+<img src="http://www.hackthebox.eu/badge/image/928801" alt="Hack The Box">
